@@ -31,7 +31,7 @@
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
 - rTorrent_v0.9.7_b26dc42.zip
-- ruTorrent_v3.9_7a3d807.zip
+- ruTorrent_v3.9.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-stable.linux.x86_64.tar.xz
 - showip_v3.6.zip
