@@ -32,6 +32,7 @@
 - rkhunter_v1.4.6.tar.gz
 - rTorrent_v0.9.7_b26dc42.zip
 - ruTorrent_v3.9.zip
+- ruTorrent_v3.9_626ba3d.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-stable.linux.x86_64.tar.xz
 - showip_v3.6.zip
