@@ -21,7 +21,7 @@
 - mediastream_v0.01.zip
 - minisign_v0.8.3.tar.gz
 - mobile_v1.0.zip
-- netdata_v1.15.0.tar.gz
+- netdata-v1.16.0.tar.gz
 - nfo_v3.6.zip
 - nginx-0.10.wbm
 - node_v0.12.18.tar.gz
@@ -37,9 +37,8 @@
 - showip_v3.6.zip
 - speedgraph_v3.6.zip
 - speedtest-cli
-- statistics_v0.3.zip
+- statistics_v0.4.zip
 - stream_v1.0.tar.gz
 - sync_v0.1.zip
 - Tautulli_latest.tar.gz
 - wolf_v0.8.3.1.zip
-- xmlrpc-c_v1.54.0.zip
