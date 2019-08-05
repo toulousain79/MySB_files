@@ -23,7 +23,7 @@
 - mobile_v1.0.zip
 - netdata-v1.16.0.tar.gz
 - nfo_v3.6.zip
-- nginx-0.10.wbm
+- nginx_v0.10.wbm
 - node_v0.12.18.tar.gz
 - openvpn_v3.1.wbm
 - pausewebui_v1.2.zip
