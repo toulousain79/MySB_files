@@ -3,7 +3,6 @@
 - checksfv_v3.6.zip
 - club-QuickBox_v0.1p.zip
 - composer.phar
-- dnscrypt-proxy_v1.9.5.tar.gz
 - docker-compose-Linux-x86_64
 - filemanager_v0.09.zip
 - fileshare_v1.0.zip
