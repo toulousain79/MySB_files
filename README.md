@@ -3,7 +3,6 @@
 - checksfv_v3.6.zip
 - club-QuickBox_v0.1p.zip
 - composer.phar
-- docker-compose-Linux-x86_64
 - filemanager_v0.09.zip
 - fileshare_v1.0.zip
 - fileupload_v0.02.zip
@@ -16,6 +15,7 @@
 - linkcakebox_v1.0.zip
 - linkseedboxmanager_v1.0.zip
 - logoff_v1.3.tar.gz
+- lynis_latest.tar.gz
 - MaterialDesign_v0.1.zip
 - mediastream_v0.01.zip
 - minisign_v0.8.3.tar.gz
