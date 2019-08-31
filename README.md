@@ -11,7 +11,7 @@
 - lbll-suite_v0.8.1.tar.gz
 - libsmbclient-php_v1.0.0.zip
 - libsodium_v1.0.16.tar.gz
-- libtorrent_v0.13.8.tar.gz
+- libtorrent_v0.13.8_9bbbee6.zip
 - linkcakebox_v1.0.zip
 - linkseedboxmanager_v1.0.zip
 - logoff_v1.3.tar.gz
@@ -28,7 +28,7 @@
 - Plowshare_v2.1.7.zip
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
-- rtorrent_v0.9.8.tar.gz
+- rtorrent_v0.9.8_14d7121.zip
 - ruTorrent_v3.9_718087a.zip
 - seedbox-manager_v3.0.1.zip
 - showip_v3.6.zip
