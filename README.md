@@ -30,6 +30,7 @@
 - rkhunter_v1.4.6.tar.gz
 - rtorrent_v0.9.8_14d7121.zip
 - ruTorrent_v3.9_718087a.zip
+- ruTorrent_v3.9_cfad7fc.zip
 - seedbox-manager_v3.0.1.zip
 - showip_v3.6.zip
 - speedgraph_v3.6.zip
