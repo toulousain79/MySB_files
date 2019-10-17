@@ -3,6 +3,7 @@
 - checksfv_v3.6.zip
 - club-QuickBox_v0.1p.zip
 - composer.phar
+- DNScrypt-proxy_latest.tar.gz
 - filemanager_v0.09.zip
 - fileshare_v1.0.zip
 - fileupload_v0.02.zip
@@ -17,7 +18,6 @@
 - lynis_latest.tar.gz
 - MaterialDesign_v0.1.zip
 - mediastream_v0.01.zip
-- minisign_v0.8.3.tar.gz
 - mobile_v1.0.zip
 - netdata_v1.17.1.tar.gz
 - nfo_v3.6.zip
@@ -28,6 +28,7 @@
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
 - rtorrent_v0.9.8_8ac98c6.zip
+- ruTorrent_v3.9_c517387.zip
 - ruTorrent_v3.9_f5fa66f.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-v0.7.0.linux.x86_64.tar.xz
