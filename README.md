@@ -19,7 +19,7 @@
 - MaterialDesign_v0.1.zip
 - mediastream_v0.01.zip
 - mobile_v1.0.zip
-- netdata_v1.17.1.tar.gz
+- netdata_v1.18.1.tar.gz
 - nfo_v3.6.zip
 - nginx_v0.10.wbm
 - openvpn_v3.1.wbm
@@ -29,7 +29,6 @@
 - rkhunter_v1.4.6.tar.gz
 - rtorrent_v0.9.8_8ac98c6.zip
 - ruTorrent_v3.9_c517387.zip
-- ruTorrent_v3.9_f5fa66f.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-v0.7.0.linux.x86_64.tar.xz
 - showip_v3.6.zip
