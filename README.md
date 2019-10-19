@@ -25,6 +25,11 @@
 - nginx_v0.10.wbm
 - openvpn_v3.1.wbm
 - pausewebui_v1.2.zip
+- pglcmd_2.3.1-1_amd64.deb
+- pgld-dbg_2.3.1-1_amd64.deb
+- pgld_2.3.1-1_amd64.deb
+- pglgui-dbg_2.3.1-1_amd64.deb
+- pglgui_2.3.1-1_amd64.deb
 - Plowshare_v2.1.7.zip
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
