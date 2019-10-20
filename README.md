@@ -23,6 +23,7 @@
 - netdata-v1.16.0.tar.gz
 - nfo_v3.6.zip
 - nginx_v0.10.wbm
+- nodejs_12.9.1-1nodesource1_amd64.deb
 - openvpn_v3.1.wbm
 - pausewebui_v1.2.zip
 - pglcmd_2.3.1-1_amd64.deb
