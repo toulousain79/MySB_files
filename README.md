@@ -11,7 +11,7 @@
 - instantsearch_v1.0.zip
 - lbll-suite_v0.8.1.tar.gz
 - libsmbclient-php_v1.0.0.zip
-- libtorrent_v0.13.8_9bbbee6.zip
+- libtorrent_v0.13.8_3cec247.zip
 - linkcakebox_v1.0.zip
 - linkseedboxmanager_v1.0.zip
 - logoff_v1.3.tar.gz
@@ -34,7 +34,7 @@
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
 - rtorrent_v0.9.8_8ac98c6.zip
-- ruTorrent_v3.9_c517387.zip
+- ruTorrent_v3.9_cdb4cfe.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-v0.7.0.linux.x86_64.tar.xz
 - showip_v3.6.zip
