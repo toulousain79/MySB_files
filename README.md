@@ -11,7 +11,7 @@
 - instantsearch_v1.0.zip
 - lbll-suite_v0.8.1.tar.gz
 - libsmbclient-php_v1.0.0.zip
-- libtorrent_v0.13.8_3cec247.zip
+- libtorrent_v0.13.8_b57ca61.zip
 - linkcakebox_v1.0.zip
 - linkseedboxmanager_v1.0.zip
 - logoff_v1.3.tar.gz
@@ -19,7 +19,7 @@
 - MaterialDesign_v0.1.zip
 - mediastream_v0.01.zip
 - mobile_v1.0.zip
-- netdata_v1.18.1.tar.gz
+- netdata_v1.19.0.tar.gz
 - nfo_v3.6.zip
 - nginx_v0.10.wbm
 - nodejs_12.9.1-1nodesource1_amd64.deb
@@ -33,8 +33,8 @@
 - Plowshare_v2.1.7.zip
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
-- rtorrent_v0.9.8_8ac98c6.zip
-- ruTorrent_v3.9_af9ca50.zip
+- rtorrent_v0.9.8_3798de0.zip
+- ruTorrent_v3.9_3c8bcbf.zip
 - seedbox-manager_v3.0.1.zip
 - shellcheck-v0.7.0.linux.x86_64.tar.xz
 - showip_v3.6.zip
