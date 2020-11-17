@@ -23,7 +23,7 @@ a513c78a791711a93947a05f887dd18a  /opt/MySB/install/RKHunter
 9cab297873fe01481d9d536e279b57e1  /opt/MySB/install/NFS
 e9beb721f61fbf7345d99b4aaff58b93  /opt/MySB/install/NextCloud
 e4e594ad0d76248df44099849896018d  /opt/MySB/install/Portsentry
-2925913282fb806cdcc23dc3351cae56  /opt/MySB/install/Cakebox
+128b6df9dd06a858033c1c6d949a16a8  /opt/MySB/install/Cakebox
 2a6650d3bbbb15e93a93f4afb108b69c  /opt/MySB/install/Lynis
 690c4612e5f7da2558784b8d1818d978  /opt/MySB/install/MySB.bsh
 38076b0ce4b02b1a0bccd186ae274ead  /opt/MySB/install/Tools
@@ -40,7 +40,7 @@ b4cadfb3cdfd8e1262afb0bb15ba1780  /opt/MySB/install/VSFTP
 b904f3f98c3dfadcc65f6e30a78a37ce  /opt/MySB/install/Fail2Ban
 8679dca4f1bd1659b5cc1fc34b9949f6  /opt/MySB/install/Blocklists
 662af4428270909ba69f4c37b243914f  /opt/MySB/install/Webmin
-ae293e34cf453e19b34dcf528e674cf6  /opt/MySB/install/SeedboxManager
+4c5fb531a05352c7ac4ceaeb4e780c87  /opt/MySB/install/SeedboxManager
 b27261d960b4f2dd1a4c8ef3e32b120d  /opt/MySB/install/PeerGuardian
 1a2c7b2b422294e33c9f1e061044a34b  /opt/MySB/install/rTorrent
 584b2a945c7110da30c4ccbd59726505  /opt/MySB/templates/rtorrent/rtorrent_inserted_new.sh.tmpl
