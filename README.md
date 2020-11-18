@@ -17,9 +17,10 @@
 - logoff_v1.3.tar.gz
 - lynis_latest.tar.gz
 - MaterialDesign_v0.1.zip
+- md5sum.txt
 - mediastream_v0.01.zip
 - mobile_v1.0.zip
-- netdata_v1.19.0.tar.gz
+- netdata-v1.26.0.tar.gz
 - nfo_v3.6.zip
 - nginx_v0.10.wbm
 - nodejs_12.9.1-1nodesource1_amd64.deb
@@ -34,9 +35,9 @@
 - ratiocolor_v0.5.zip
 - rkhunter_v1.4.6.tar.gz
 - rtorrent_v0.9.8_7976576.zip
-- ruTorrent_v3.9_a21ee8b.zip
+- ruTorrent_v3.10_48bf3e5.zip
 - seedbox-manager_v3.0.1.zip
-- shellcheck-v0.7.0.linux.x86_64.tar.xz
+- shellcheck-v0.7.1.linux.x86_64.tar.xz
 - showip_v3.6.zip
 - speedgraph_v3.6.zip
 - statistics_v0.4.zip
